@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan Sawant</h1>
 <h3 align="center">Aspiring Software Developer from India</h3>
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **MEAN Stack, Spring Boot**
 
-- 💬 Ask me about **Java, C, MySQL**
+- 💬 Ask me about **Java, C, MySQL, Spring, HTML, CSS, Bootstrap**
 
 - 📫 How to reach me **darshansawant285@gmail.com**
 
