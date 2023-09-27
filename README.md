@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MEAN Stack, Spring Boot**
 
-- 💬 Ask me about **Java, C, MySQL, Spring, HTML, CSS, Bootstrap**
+- 💬 Ask me about **Spring, Java, PHP, C, MySQL, HTML, CSS, Bootstrap, JavaScript**
 
 - 📫 How to reach me **darshansawant285@gmail.com**
 
