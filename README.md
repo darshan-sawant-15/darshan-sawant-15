@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darshan Sawant</h1>
 <h3 align="center">Aspiring Software Developer from India</h3>
 
-- 🌱 I’m currently learning **MEAN Stackt**
+- 🌱 I’m currently learning **MEAN Stack**
 
 - 💬 Ask me about **Spring Boot, Java, PHP, C, MySQL, HTML, CSS, Bootstrap, JavaScript**
 
